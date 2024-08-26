@@ -32,7 +32,7 @@ This project is a web-based implementation of a stopwatch. The stopwatch can be 
 
 ## **Demo**
 
-For a live demo of the stopwatch application, visit: [Stopwatch Web Application](https://hrjayasuryasingh9.github.io/SCT_WD_2/Task-2/)
+For a live demo of the stopwatch application, visit: [Stopwatch Web Application](https://harshini6280.github.io/SCT_WD_2/Task-2/)
 
 ## **Author**
 
